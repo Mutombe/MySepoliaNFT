@@ -1,0 +1,22 @@
+{
+  "name": "mysepolianft",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mutombe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutombe/MySepoliaNFT.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mutombe/MySepoliaNFT/issues"
+  },
+  "homepage": "https://github.com/Mutombe/MySepoliaNFT#readme"
+}
